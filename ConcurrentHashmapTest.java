@@ -19,8 +19,6 @@ public class ConcurrentHashmapTest {
 		m.put(102, "Geeks");
 		m.put(103, "Java");
 		m.put(104, "Python");
-		m.put(105, "AI");
-		m.put(105, "AI");
 
 		// Here we cant add Hello because 101 key
 		// is already present in ConcurrentHashMap object
